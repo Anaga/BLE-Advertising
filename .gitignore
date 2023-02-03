@@ -60,3 +60,6 @@ dkms.conf
 #
 output
 build
+pca10040
+pca10040e
+pca10056e
